@@ -12,3 +12,6 @@ Este repositório contém um dashboard interativo criado no Power BI, baseado na
 
 - **Power BI** - Ferramenta de visualização de dados usada para criar o dashboard.
 - **Data Analysis Expressions (DAX)** - Linguagem usada para criar cálculos e métricas dentro do Power BI.
+
+## Visualizar a DashBoard
+Acesse o dashboard interativo através do [Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiNzY1ZDRlZTUtZDVmYS00OGQ0LTg5NGQtYmY2Nzg3ZDBiZTg3IiwidCI6ImZlODc4N2JjLWM5MTQtNDY2NS04NTQ3LTI2OGUxNWNiMGQ5YSJ9).
